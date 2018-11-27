@@ -13,4 +13,13 @@
 * [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics) - Josh Stark
     * クリプトエコノミクス概要と事例
 
+### Bonding Carve & Token Design
+
+### Protocol
+
+### まとめ
+* [Blockchain and Incentives](http://www.econexp.org/hitoshi/18A2GG1.pdf) - 松島斉 東京大学 大学院 経済学研究科教授
+* [Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/) - a16z
+* [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics) - L4 Ventures
+
 ## Cryptoeconomists on Twitter
