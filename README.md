@@ -15,6 +15,7 @@
 
 ### Bonding Carve & Token Design
 * [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388) - Simon de la Rouviere
+* [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) - Simon de la Rouviere
 
 ### Protocol/Projects
 * [Bancor](https://about.bancor.network/)
