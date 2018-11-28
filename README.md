@@ -1,4 +1,4 @@
-# Cryptoeconomics
+# Decrypt Cryptoeconomism
 
 ## Cryptoeconomicsとは？
  >"cryptoeconomics describes the combination of cryptography and economic incentives to design robust decentralized protocols and applications. According to this strain of thinking, Bitcoin succeeded where other decentralized protocols failed, not because of Proof-of-Work, the idea of decentralized cash, or even fault-tolerant consensus, but because it incorporated cryptoeconomics at the core of its consensus protocol." by BlockChannel
@@ -14,6 +14,9 @@
     * クリプトエコノミクス概要と事例
 
 ### Bonding Carve & Token Design
+* [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388) - Simon de la Rouviere
+
+### Protocol/Projects
 * [Bancor](https://about.bancor.network/)
     * [Twitter](https://twitter.com/Bancor)
 * [Gnosis](https://gnosis.pm/)
@@ -22,7 +25,9 @@
 * [Ocean Protocol](https://oceanprotocol.com/)
     * [Twitter](https://twitter.com/oceanprotocol)
 
-### Protocol
+### Ethereum Research
+* [Improving front running resistance of x*y=k market makers](https://ethresear.ch/t/improving-front-running-resistance-of-x-y-k-market-makers/1281) - Vitalik Buterin.
+    * DEXにおけるフロントランニング問題に対するクリプトエコノミクス的な解決策
 
 ### まとめ
 * [Blockchain and Incentives](http://www.econexp.org/hitoshi/18A2GG1.pdf) - 松島斉 東京大学 大学院 経済学研究科教授
@@ -30,3 +35,5 @@
 * [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics) - L4 Ventures
 
 ## Cryptoeconomists on Twitter
+* [Simon de la Rouviere](https://twitter.com/simondlr)
+
