@@ -14,6 +14,13 @@
     * クリプトエコノミクス概要と事例
 
 ### Bonding Carve & Token Design
+* [Bancor](https://about.bancor.network/)
+    * [Twitter](https://twitter.com/Bancor)
+* [Gnosis](https://gnosis.pm/)
+    * [Twitter](https://twitter.com/gnosisPM)
+    * [WhitePaper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
+* [Ocean Protocol](https://oceanprotocol.com/)
+    * [Twitter](https://twitter.com/oceanprotocol)
 
 ### Protocol
 
