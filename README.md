@@ -20,7 +20,7 @@
 * [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) - Simon de la Rouviere
 * [Dynamic Token Bonding Curves](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) - David Truong
     * Dynamic Token Bonding CurvesのPros Consと活用方法
-*[City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5) - Simon de la Rouviere
+* [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5) - Simon de la Rouviere
 
 ### Protocol/Projects
 * [Bancor](https://about.bancor.network/)
