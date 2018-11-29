@@ -12,12 +12,15 @@
     * クリプトエコノミクスの定義とメカニズムデザインに関して
 * [Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics) - Josh Stark
     * クリプトエコノミクス概要と事例
+* [An Introduction to Futarchy](https://blog.ethereum.org/2014/08/21/introduction-futarchy/) - Vitalik Buterin
+* [Cryptonetworks and why tokens are fundamental](https://www.nickgrossman.is/2018/cryptonetworks-and-why-tokens-are-fundamental/) - Nick Grossman
 
 ### Bonding Carve & Token Design
 * [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388) - Simon de la Rouviere
 * [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) - Simon de la Rouviere
 * [Dynamic Token Bonding Curves](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) - David Truong
     * Dynamic Token Bonding CurvesのPros Consと活用方法
+*[City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5) - Simon de la Rouviere
 
 ### Protocol/Projects
 * [Bancor](https://about.bancor.network/)
