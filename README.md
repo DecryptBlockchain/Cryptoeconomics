@@ -16,6 +16,8 @@
 ### Bonding Carve & Token Design
 * [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388) - Simon de la Rouviere
 * [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) - Simon de la Rouviere
+* [Dynamic Token Bonding Curves](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) - David Truong
+    * Dynamic Token Bonding CurvesのPros Consと活用方法
 
 ### Protocol/Projects
 * [Bancor](https://about.bancor.network/)
@@ -29,6 +31,10 @@
 ### Ethereum Research
 * [Improving front running resistance of x*y=k market makers](https://ethresear.ch/t/improving-front-running-resistance-of-x-y-k-market-makers/1281) - Vitalik Buterin.
     * DEXにおけるフロントランニング問題に対するクリプトエコノミクス的な解決策
+* [Cryptoeconomics talk sllides from DevCon4](https://ethresear.ch/t/cryptoeconomics-talk-sllides-from-devcon4/4062)
+    * Devcon4で発表されたPESTOモデル
+* [First and second-price auctions and improved transaction-fee markets](https://ethresear.ch/t/first-and-second-price-auctions-and-improved-transaction-fee-markets/2410)
+    * Ethereum gas高騰問題に対するクリプトエコノミクス的な解決策
 
 ### まとめ
 * [Blockchain and Incentives](http://www.econexp.org/hitoshi/18A2GG1.pdf) - 松島斉 東京大学 大学院 経済学研究科教授
