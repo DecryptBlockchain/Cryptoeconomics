@@ -15,12 +15,14 @@
 * [An Introduction to Futarchy](https://blog.ethereum.org/2014/08/21/introduction-futarchy/) - Vitalik Buterin
 * [Cryptonetworks and why tokens are fundamental](https://www.nickgrossman.is/2018/cryptonetworks-and-why-tokens-are-fundamental/) - Nick Grossman
 
-### Bonding Carve & Token Design
+### Bonding Carve & Token Design & Token Curated Registry 
 * [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388) - Simon de la Rouviere
 * [Tokens 2.0: Curved Token Bonding in Curation Markets](https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5) - Simon de la Rouviere
 * [Dynamic Token Bonding Curves](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) - David Truong
     * Dynamic Token Bonding CurvesのPros Consと活用方法
 * [City Walls & Bo-Taoshi: Exploring the Power of Token-Curated Registries](https://medium.com/@simondlr/city-walls-bo-taoshi-exploring-the-power-of-token-curated-registries-588f208c17d5) - Simon de la Rouviere
+* [Token Curated Registry (TCR) Design Patterns](https://hackernoon.com/token-curated-registry-tcr-design-patterns-4de6d18efa15)
+    * TCRのパターン解説
 
 ### Protocol/Projects
 * [Bancor](https://about.bancor.network/)
@@ -30,6 +32,7 @@
     * [WhitePaper](https://storage.googleapis.com/website-bancor/2018/04/01ba8253-bancor_protocol_whitepaper_en.pdf)
 * [Ocean Protocol](https://oceanprotocol.com/)
     * [Twitter](https://twitter.com/oceanprotocol)
+    * Part1 [Can Blockchains Go Rogue?](https://blog.oceanprotocol.com/can-blockchains-go-rogue-5134300ce790) 
 
 ### Ethereum Research
 * [Improving front running resistance of x*y=k market makers](https://ethresear.ch/t/improving-front-running-resistance-of-x-y-k-market-makers/1281) - Vitalik Buterin.
@@ -46,4 +49,4 @@
 
 ## Cryptoeconomists on Twitter
 * [Simon de la Rouviere](https://twitter.com/simondlr)
-
+* [Trent McConaghy](https://twitter.com/trentmc0)
