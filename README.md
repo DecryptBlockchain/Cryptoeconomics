@@ -48,5 +48,7 @@
 * [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics) - L4 Ventures
 
 ## Cryptoeconomists on Twitter
+* [VitalikButerin](https://twitter.com/VitalikButerin?lang=en)
+* [Karl Floersch](https://twitter.com/karl_dot_tech?lang=en)
 * [Simon de la Rouviere](https://twitter.com/simondlr)
 * [Trent McConaghy](https://twitter.com/trentmc0)
