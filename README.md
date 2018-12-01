@@ -1,4 +1,4 @@
-# Cryptoeconomism Reading List
+# Cryptoeconomics Reading List
 
 ## Cryptoeconomicsとは？
  >"cryptoeconomics describes the combination of cryptography and economic incentives to design robust decentralized protocols and applications. According to this strain of thinking, Bitcoin succeeded where other decentralized protocols failed, not because of Proof-of-Work, the idea of decentralized cash, or even fault-tolerant consensus, but because it incorporated cryptoeconomics at the core of its consensus protocol." by BlockChannel
